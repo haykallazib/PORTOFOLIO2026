@@ -254,7 +254,7 @@
             <!-- PROYEK 1: Hy-Plant Detection -->
             <div class="col-md-4">
                 <div class="card border-0 shadow-sm h-100 overflow-hidden">
-                    <img src="tanaman.png" class="card-img-top" alt="Hy-Plant Detection" style="height: 200px; object-fit: cover;" />
+                    <img src="tanaman.PNG" class="card-img-top" alt="Hy-Plant Detection" style="height: 200px; object-fit: cover;" />
                     <div class="card-body">
                         <span class="badge bg-primary bg-opacity-10 text-primary mb-2">Website</span>
                         <h5 class="card-title fw-bold">Hy-Plant Detection</h5>
@@ -285,7 +285,7 @@
                         <span class="badge bg-primary bg-opacity-10 text-primary mb-2">Website</span>
                         <h5 class="card-title fw-bold">Sistem Parkir Digital</h5>
                         <p class="card-text small text-secondary">Sistem manajemen parkir berbasis teknologi digital.</p>
-                        <a href="#" class="btn btn-outline-primary btn-sm rounded-pill px-4">Lihat Detail</a>
+                        <a href="https://haykallazib.github.io/parkir-digital/" class="btn btn-outline-primary btn-sm rounded-pill px-4">Lihat Detail</a>
                     </div>
                 </div>
             </div>
